@@ -33,7 +33,6 @@ Conta para realização das tarefas do curso técnico.
      <a href = "https://discordapp.com/users/735547908312793129" target="_blank"> daniel_dcc 
      </a>
   <br>
-      <img width="30" src="https://github.com/DanielDCCampos/DanielDCCampos/assets/129073490/6a8439e7-1dac-4b56-bd39-efac0a70cc93">
       <br><br><br><br>
       <img width="50" src="https://github.com/DanielDCCampos/DanielDCCampos/assets/129073490/014a5a88-4222-4741-b9c9-1e09605ba5fc">
 </div>
